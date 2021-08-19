@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns!
-On the US, theater has the most successful rate. From the subcategory of theater, plays has the most successful rate. 
+In the US, theater has the most successful rate. From the subcategory of theater, plays has the most successful rate. 
 
 ![Picture1](https://user-images.githubusercontent.com/88747464/130153424-a1a6dbf2-afae-4e3c-ac49-f468063fb2d9.png)
 
