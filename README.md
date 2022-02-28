@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns!
+# Kickstarter Campaigns Analysis
 
 ## Overview of Project
 A playwright, Louise, wants to start a crowdfunding campaign to help fund her play, Fever. 
